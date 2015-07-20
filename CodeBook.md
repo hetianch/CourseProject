@@ -1,9 +1,9 @@
 # DATA DICTIONARY - tidy.txt
 
-## SUBJECT	2
+## SUBJECT	2 charector
 	Subject identifier of 30 volunteers
 
-## Activity 18
+## Activity 18 charector
 	Activities that volunteers performed.
 	Activity types are as follows:
 		WALKING
@@ -15,36 +15,36 @@
 
 ## AvgtBodyAcc_mean_X 
 
-	The average of the mean of the tBodyAcc on the X axis. 
+	The average of the mean of the tBodyAcc on the X axis. (unit:m/s^2)  
 
 ## AvgtBodyAcc_mean_Y 
 
-	The average of the mean of the tBodyAcc on the Y axis. 
+	The average of the mean of the tBodyAcc on the Y axis. (unit:m/s^2)  
 
 ## AvgtBodyAcc_mean_Z 
 
-	The average of the mean of the tBodyAcc on the Z axis. 
+	The average of the mean of the tBodyAcc on the Z axis.(unit:m/s^2)   
 
 ## AvgtBodyAcc_std_X  
 
-	The average of the standard deviation of the tBodyAcc on the X axis. 
+	The average of the standard deviation of the tBodyAcc on the X axis.(unit:m/s^2)   
 
 ## AvgtBodyAcc_std_Y  
 
-	The average of the standard deviation of the tBodyAcc on the Y axis. 
+	The average of the standard deviation of the tBodyAcc on the Y axis.(unit:m/s^2)    
 
 ## AvgtBodyAcc_std_Z  
 
-	The average of the standard deviation of the tBodyAcc on the Z axis. 
+	The average of the standard deviation of the tBodyAcc on the Z axis.(unit:m/s^2)    
 
 ## AvgtGravityAcc_mean_X  
-	The average of the mean of the tGravityAcc on the X axis. 
+	The average of the mean of the tGravityAcc on the X axis.(unit:m/s^2)     
 
 ## AvgtGravityAcc_mean_Y  
-	The average of the mean of the tGravityAcc on the Y axis. 
+	The average of the mean of the tGravityAcc on the Y axis.(unit:m/s^2)     
 
 ## AvgtGravityAcc_mean_Z  
-	The average of the mean of the tGravityAcc on the Z axis. 
+	The average of the mean of the tGravityAcc on the Z axis.(unit:m/s^2)     
 
 ## AvgtGravityAcc_std_X  
 	The average of the standard deviation of the tGravityAcc on the X axis. 
