@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data Course Project  
 
 This is the course project for Getting and Cleaning Data on Coursera. The script `run_analysis.R`
-is can read in the Samsung data and produce a tidy data set `tidy.csv` by the following steps:
+is can read in the Samsung data and produce a tab seperated tidy data set `tidy.txt` by the following steps:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.   

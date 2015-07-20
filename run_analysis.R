@@ -102,7 +102,7 @@ tidy_label = append(c("subject","activity"),tidy_label)
 names(tidy_data) = tidy_label
 
 # write tidy data to tidy.csv
-write.table(tidy_data,file = "tidy.csv",quote=FALSE, col.names = TRUE,row.names = FALSE,sep=",")
+write.table(tidy_data,file = "tidy.txt",quote=FALSE, col.names = TRUE,row.names = FALSE,sep="\t")
 
 
 

@@ -1,4 +1,4 @@
-# DATA DICTIONARY - tidy.csv
+# DATA DICTIONARY - tidy.txt
 
 ## SUBJECT	2
 	Subject identifier of 30 volunteers
