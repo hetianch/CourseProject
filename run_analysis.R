@@ -2,12 +2,12 @@ library(plyr)
 #1. Merges the training and the test sets 
 
 ## load data
-X_test = read.table("test/X_test.txt")
-Y_test = read.table("test/Y_test.txt")
-subject_test = read.table("test/subject_test.txt")
-X_train = read.table("train/X_train.txt")
-Y_train = read.table("train/Y_train.txt")
-subject_train = read.table("train/subject_train.txt")
+X_test = read.table("UCI\ HAR\ Dataset/test/X_test.txt")
+Y_test = read.table("UCI\ HAR\ Dataset/test/Y_test.txt")
+subject_test = read.table("UCI\ HAR\ Dataset/test/subject_test.txt")
+X_train = read.table("UCI\ HAR\ Dataset/train/X_train.txt")
+Y_train = read.table("UCI\ HAR\ Dataset/train/Y_train.txt")
+subject_train = read.table("UCI\ HAR\ Dataset/train/subject_train.txt")
 
 ## merge horizontally
 test_data = cbind(subject_test,Y_test,X_test)
@@ -19,7 +19,7 @@ data = rbind(train_data,test_data)
 #2.extracts only the measurements on the mean and standard deviation for each measurement
 
 ## load features
-features = read.table("features.txt",col.names = c("idx","measurements"),stringsAsFactors = F)
+features = read.table("UCI\ HAR\ Dataset/features.txt",col.names = c("idx","measurements"),stringsAsFactors = F)
 off_set = 2
 
 ## find column index of mean and std measures
@@ -34,7 +34,7 @@ extract_data = data[,col_to_extract]
 #3.Uses descriptive activity names to name the activities in the data set
 
 ##load activity labels
-labels = read.table("activity_labels.txt",col.names = c("idx","name"),stringsAsFactors = F)
+labels = read.table("UCI\ HAR\ Dataset/activity_labels.txt",col.names = c("idx","name"),stringsAsFactors = F)
 
 ## substitute index to activity names
 
