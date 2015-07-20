@@ -1,9 +1,9 @@
-DATA DICTIONARY - tidy.csv
+# DATA DICTIONARY - tidy.csv
 
-SUBJECT	2
+## SUBJECT	2
 	Subject identifier of 30 volunteers
 
-Activity 18
+## Activity 18
 	Activities that volunteers performed.
 	Activity types are as follows:
 		WALKING
