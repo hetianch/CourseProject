@@ -12,4 +12,5 @@ is can read in the Samsung data and produce a tidy data set `tidy.csv` by the fo
 ### To run `run_analysis.R`:
 
 1. Place sansung data in your working directory.
-2. Run in through command line:
+2. Run through command line: `Rscript run_analysis.R`.
+
