@@ -13,202 +13,208 @@
 		STANDING
 		LAYING
 
-AvgtBodyAcc_mean_X
+## AvgtBodyAcc_mean_X 
+
 	The average of the mean of the tBodyAcc on the X axis. 
 
-AvgtBodyAcc_mean_Y
+## AvgtBodyAcc_mean_Y 
+
 	The average of the mean of the tBodyAcc on the Y axis. 
 
-AvgtBodyAcc_mean_Z
+## AvgtBodyAcc_mean_Z 
+
 	The average of the mean of the tBodyAcc on the Z axis. 
 
-AvgtBodyAcc_std_X
+## AvgtBodyAcc_std_X  
+
 	The average of the standard deviation of the tBodyAcc on the X axis. 
 
-AvgtBodyAcc_std_Y
+## AvgtBodyAcc_std_Y  
+
 	The average of the standard deviation of the tBodyAcc on the Y axis. 
 
-AvgtBodyAcc_std_Z
+## AvgtBodyAcc_std_Z  
+
 	The average of the standard deviation of the tBodyAcc on the Z axis. 
 
-AvgtGravityAcc_mean_X
+## AvgtGravityAcc_mean_X  
 	The average of the mean of the tGravityAcc on the X axis. 
 
-AvgtGravityAcc_mean_Y
+## AvgtGravityAcc_mean_Y  
 	The average of the mean of the tGravityAcc on the Y axis. 
 
-AvgtGravityAcc_mean_Z
+## AvgtGravityAcc_mean_Z  
 	The average of the mean of the tGravityAcc on the Z axis. 
 
-AvgtGravityAcc_std_X
+## AvgtGravityAcc_std_X  
 	The average of the standard deviation of the tGravityAcc on the X axis. 
 
-AvgtGravityAcc_std_Y
+## AvgtGravityAcc_std_Y  
 	The average of the standard deviation of the tGravityAcc on the Y axis. 
 
-AvgtGravityAcc_std_Z
+## AvgtGravityAcc_std_Z  
 	The average of the standard deviation of the tGravityAcc on the Z axis. 
 
-AvgtBodyAccJerk_mean_X
+## AvgtBodyAccJerk_mean_X  
 	The average of the mean of the tBodyAccJerk on the X axis. 
 
-AvgtBodyAccJerk_mean_Y
+## AvgtBodyAccJerk_mean_Y  
 	The average of the mean of the tBodyAccJerk on the Y axis. 
 
-AvgtBodyAccJerk_mean_Z
+## AvgtBodyAccJerk_mean_Z  
 	The average of the mean of the tBodyAccJerk on the Z axis. 
 
-AvgtBodyAccJerk_std_X
+## AvgtBodyAccJerk_std_X  
 	The average of the standard deviation of the tBodyAccJerk on the X axis. 
 
-AvgtBodyAccJerk_std_Y
+## AvgtBodyAccJerk_std_Y  
 	The average of the standard deviation of the tBodyAccJerk on the Y axis. 
 
-AvgtBodyAccJerk_std_Z
+## AvgtBodyAccJerk_std_Z  
 	The average of the standard deviation of the tBodyAccJerk on the Z axis. 
 
-AvgtBodyGyro_mean_X
+## AvgtBodyGyro_mean_X  
 	The average of the mean of the tBodyGyro on the X axis. 
 
-AvgtBodyGyro_mean_Y
+## AvgtBodyGyro_mean_Y  
 	The average of the mean of the tBodyGyro on the Y axis. 
 
-AvgtBodyGyro_mean_Z
+## AvgtBodyGyro_mean_Z  
 	The average of the mean of the tBodyGyro on the Z axis. 
 
-AvgtBodyGyro_std_X
+## AvgtBodyGyro_std_X  
 	The average of the standard deviation of the tBodyGyro on the X axis. 
 
-AvgtBodyGyro_std_Y
+## AvgtBodyGyro_std_Y  
 	The average of the standard deviation of the tBodyGyro on the Y axis. 
 
-AvgtBodyGyro_std_Z
+## AvgtBodyGyro_std_Z  
 	The average of the standard deviation of the tBodyGyro on the Z axis. 
 
-AvgtBodyGyroJerk_mean_X
+## AvgtBodyGyroJerk_mean_X  
 	The average of the mean of the tBodyGyroJerk on the X axis. 
 
-AvgtBodyGyroJerk_mean_Y
+## AvgtBodyGyroJerk_mean_Y  
 	The average of the mean of the tBodyGyroJerk on the Y axis. 
 
-AvgtBodyGyroJerk_mean_Z
+## AvgtBodyGyroJerk_mean_Z  
 	The average of the mean of the tBodyGyroJerk on the Z axis. 
 
-AvgtBodyGyroJerk_std_X
+## AvgtBodyGyroJerk_std_X  
 	The average of the standard deviation of the tBodyGyroJerk on the X axis. 
 
-AvgtBodyGyroJerk_std_Y
+## AvgtBodyGyroJerk_std_Y  
 	The average of the standard deviation of the tBodyGyroJerk on the Y axis. 
 
-AvgtBodyGyroJerk_std_Z
+## AvgtBodyGyroJerk_std_Z  
 	The average of the standard deviation of the tBodyGyroJerk on the Z axis. 
 
-AvgtBodyAccMag_mean
+## AvgtBodyAccMag_mean
 	The average of the mean of the tBodyAccMag.
 
-AvgtBodyAccMag_std
+## AvgtBodyAccMag_std
 	The average of the standard deviation of the tBodyAccMag.
 
-AvgtGravityAccMag_mean
+## AvgtGravityAccMag_mean
 	The average of the mean of the tGravityAccMag.
 
-AvgtGravityAccMag_std
+## AvgtGravityAccMag_std
 	The average of the standard deviation of the tGravityAccMag.
 
-AvgtBodyAccJerkMag_mean
+## AvgtBodyAccJerkMag_mean
 	The average of the mean of the tBodyAccJerkMag.
 
-AvgtBodyAccJerkMag_std
+## AvgtBodyAccJerkMag_std
 	The average of the standard deviation of the tBodyAccJerkMag.
 
-AvgtBodyGyroMag_mean
+## AvgtBodyGyroMag_mean
 	The average of the mean of the tBodyGyroMag.
 
-AvgtBodyGyroMag_std
+## AvgtBodyGyroMag_std
 	The average of the standard deviation of the tBodyGyroMag.
 
-AvgtBodyGyroJerkMag_mean
+## AvgtBodyGyroJerkMag_mean
 	The average of the mean of the tBodyGyroJerkMag.
 
-AvgtBodyGyroJerkMag_std
+## AvgtBodyGyroJerkMag_std
 	The average of the standard deviation of the tBodyGyroJerkMag.
 
-AvgfBodyAcc_mean_X
+## AvgfBodyAcc_mean_X
 	The average of the mean of the fBodyAcc on the X axis. 
 
-AvgfBodyAcc_mean_Y
+## AvgfBodyAcc_mean_Y
 	The average of the mean of the fBodyAcc on the Y axis. 
 
-AvgfBodyAcc_mean_Z
+## AvgfBodyAcc_mean_Z
 	The average of the mean of the fBodyAcc on the Z axis. 
 
-AvgfBodyAcc_std_X
+## AvgfBodyAcc_std_X
 	The average of the standard deviation of the fBodyAcc on the X axis. 
 
-AvgfBodyAcc_std_Y
+## AvgfBodyAcc_std_Y
 	The average of the standard deviation of the fBodyAcc on the Y axis. 
 
-AvgfBodyAcc_std_Z
+## AvgfBodyAcc_std_Z
 	The average of the standard deviation of the fBodyAcc on the Z axis. 
 
-AvgfBodyAccJerk_mean_X
+## AvgfBodyAccJerk_mean_X
 	The average of the mean of the fBodyAccJerk on the X axis. 
 
-AvgfBodyAccJerk_mean_Y
+## AvgfBodyAccJerk_mean_Y
 	The average of the mean of the fBodyAccJerk on the Y axis. 
 
-AvgfBodyAccJerk_mean_Z
+## AvgfBodyAccJerk_mean_Z
 	The average of the mean of the fBodyAccJerk on the Z axis. 
 
-AvgfBodyAccJerk_std_X
+## AvgfBodyAccJerk_std_X
 	The average of the standard deviation of the fBodyAccJerk on the X axis. 
 
-AvgfBodyAccJerk_std_Y
+## AvgfBodyAccJerk_std_Y
 	The average of the standard deviation of the fBodyAccJerk on the Y axis. 
 
-AvgfBodyAccJerk_std_Z
+## AvgfBodyAccJerk_std_Z
 	The average of the standard deviation of the fBodyAccJerk on the Z axis. 
 
-AvgfBodyGyro_mean_X
+## AvgfBodyGyro_mean_X
 	The average of the mean of the fBodyGyro on the X axis. 
 
-AvgfBodyGyro_mean_Y
+## AvgfBodyGyro_mean_Y
 	The average of the mean of the fBodyGyro on the Y axis. 
 
-AvgfBodyGyro_mean_Z
+## AvgfBodyGyro_mean_Z
 	The average of the mean of the fBodyGyro on the Z axis. 
 
-AvgfBodyGyro_std_X
+## AvgfBodyGyro_std_X
 	The average of the standard deviation of the fBodyGyro on the X axis. 
 
-AvgfBodyGyro_std_Y
+## AvgfBodyGyro_std_Y
 	The average of the standard deviation of the fBodyGyro on the Y axis. 
 
-AvgfBodyGyro_std_Z
+## AvgfBodyGyro_std_Z
 	The average of the standard deviation of the fBodyGyro on the Z axis. 
 
-AvgfBodyAccMag_mean
+## AvgfBodyAccMag_mean
 	The average of the mean of the fBodyAccMag.
 
-AvgfBodyAccMag_std
+## AvgfBodyAccMag_std
 	The average of the standard deviation of the fBodyAccMag.
 
-AvgfBodyBodyAccJerkMag_mean
+## AvgfBodyBodyAccJerkMag_mean
 	The average of the mean of the fBodyBodyAccJerkMag.
 
-AvgfBodyBodyAccJerkMag_std
+## AvgfBodyBodyAccJerkMag_std
 	The average of the standard deviation of the fBodyBodyAccJerkMag.
 
-AvgfBodyBodyGyroMag_mean
+## AvgfBodyBodyGyroMag_mean
 	The average of the mean of the fBodyBodyGyroMag.
 
-AvgfBodyBodyGyroMag_std
+## AvgfBodyBodyGyroMag_std
 	The average of the standard deviation of the fBodyBodyGyroMag.
 
-AvgfBodyBodyGyroJerkMag_mean
+## AvgfBodyBodyGyroJerkMag_mean
 	The average of the mean of the fBodyBodyGyroJerkMag.
 
-AvgfBodyBodyGyroJerkMag_std
+## AvgfBodyBodyGyroJerkMag_std
 	The average of the standard deviation of the fBodyBodyGyroJerkMag.
 
 
