@@ -1,9 +1,9 @@
 # DATA DICTIONARY - tidy.txt
 
-## SUBJECT	2 charector
+## SUBJECT	2 
 	Subject identifier of 30 volunteers
 
-## Activity 18 charector
+## Activity 18 
 	Activities that volunteers performed.
 	Activity types are as follows:
 		WALKING
